@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icons8-coins-32.png</file>
+  </qresource>
+  <qresource prefix="Arka plan">
+    <file>BistKYDKarsilama.jpg</file>
+  </qresource>
+  <qresource prefix="dolar">
+    <file>Euro-Symbol-PNG-Clipart.png</file>
+    <file>dollar-sign-icon-png-22.png</file>
+    <file>3211282.png</file>
+  </qresource>
+</RCC>
